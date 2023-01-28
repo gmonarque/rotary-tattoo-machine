@@ -2,6 +2,9 @@
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+[Printables page](https://www.printables.com/fr/model/382428-rotary-tattoo-machine).
+
+
 **This repository contains the parts list and files required to build the tattoo machine I showcased in my [youtube video](https://www.youtube.com/watch?v=_EZwlKi-5l4).**
 
 ![Picture of assembled machine](machine_complete.png?raw=true "Picture of assembled machine")
